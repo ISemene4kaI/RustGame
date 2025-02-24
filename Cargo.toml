@@ -1,0 +1,9 @@
+[package]
+name = "RustGame"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.7"
+aes-gcm = "0.10"
+rand = "0.8"
